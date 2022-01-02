@@ -1,0 +1,25 @@
+.heading{
+  text-align: center;
+}
+.fun{
+  text-align: center;
+  margin-top: 25%;
+}
+.btn1, .btn2{
+  margin-left: 4%;
+}
+.btn1, .btn2{
+  padding: 1%;
+  background: skyblue;
+}
+.btn2:hover{
+  background-color:black;
+  color: white;
+}
+.btn1:hover{
+  background-color:black;
+  color: white;
+}
+body{
+  background-color:rgb(212, 245, 245);
+}
